@@ -1,4 +1,4 @@
-# Newray Monorepo
+# Ray Monorepo
 
 A modern monorepo for web, docs, and landing apps, powered by Next.js, TurboRepo, pnpm, and a custom UI package.
 

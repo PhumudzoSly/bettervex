@@ -1,4 +1,4 @@
-# 🚀 Contributing to Newray Monorepo
+# 🚀 Contributing to Ray Monorepo
 
 > **Building world-class software with uncompromising quality**
 
@@ -29,7 +29,7 @@ Thank you for your interest in contributing! We maintain the highest standards f
 ```bash
 # Clone the repository
 git clone <repo-url>
-cd newray
+cd Ray
 
 # Install all dependencies (this may take a few minutes)
 pnpm install

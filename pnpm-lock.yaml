@@ -259,102 +259,6 @@ importers:
       '@tanstack/react-table':
         specifier: ^8.21.3
         version: 8.21.3(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@tiptap/core':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/pm@2.25.1)
-      '@tiptap/extension-blockquote':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-bubble-menu':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)
-      '@tiptap/extension-character-count':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)
-      '@tiptap/extension-code-block-lowlight':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/extension-code-block@2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)(highlight.js@11.11.1)(lowlight@3.3.0)
-      '@tiptap/extension-color':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/extension-text-style@2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1)))
-      '@tiptap/extension-dropcursor':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)
-      '@tiptap/extension-focus':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)
-      '@tiptap/extension-gapcursor':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)
-      '@tiptap/extension-highlight':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-horizontal-rule':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)
-      '@tiptap/extension-image':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-link':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)
-      '@tiptap/extension-mention':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)(@tiptap/suggestion@2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1))
-      '@tiptap/extension-placeholder':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)
-      '@tiptap/extension-strike':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-subscript':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-superscript':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-table':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)
-      '@tiptap/extension-table-cell':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-table-header':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-table-row':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-task-item':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)
-      '@tiptap/extension-task-list':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-text-align':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-text-style':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-typography':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/extension-underline':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))
-      '@tiptap/pm':
-        specifier: ^2.24.2
-        version: 2.25.1
-      '@tiptap/react':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@tiptap/starter-kit':
-        specifier: ^2.24.2
-        version: 2.25.1
-      '@tiptap/suggestion':
-        specifier: ^2.24.2
-        version: 2.25.1(@tiptap/core@2.25.1(@tiptap/pm@2.25.1))(@tiptap/pm@2.25.1)
       '@types/node':
         specifier: 24.0.7
         version: 24.0.7
@@ -364,6 +268,9 @@ importers:
       '@types/react-dom':
         specifier: 19.1.6
         version: 19.1.6(@types/react@19.1.8)
+      '@workspace/tiptap-editor':
+        specifier: workspace:*
+        version: link:../../packages/tiptap-editor
       '@workspace/ui':
         specifier: workspace:*
         version: link:../../packages/ui
@@ -415,9 +322,6 @@ importers:
       libphonenumber-js:
         specifier: ^1.12.9
         version: 1.12.9
-      lowlight:
-        specifier: ^3.3.0
-        version: 3.3.0
       lucide-react:
         specifier: ^0.525.0
         version: 0.525.0(react@19.1.0)
@@ -508,9 +412,6 @@ importers:
       tailwindcss-animate:
         specifier: ^1.0.7
         version: 1.0.7(tailwindcss@4.1.11)
-      tippy.js:
-        specifier: ^6.3.7
-        version: 6.3.7
       ua-parser-js:
         specifier: ^2.0.4
         version: 2.0.4
