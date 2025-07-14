@@ -122,3 +122,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 - MIT License
 - Inspired by [Linear](https://linear.app), [Notion](https://notion.so), and [shadcn/ui](https://ui.shadcn.com)
 - Built with ❤️ by the BetterVex team
+
+## Credits
+
+Template built by Phumudzo ([X: @phumudzooooo](https://x.com/phumudzooooo))

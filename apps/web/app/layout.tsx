@@ -40,6 +40,13 @@ export default function RootLayout({
             <ConvexClientProvider>
               {children}
               <Toaster />
+              <footer
+                className="w-full flex justify-center items-center py-4 text-xs text-muted-foreground border-t border-border mt-8"
+              >
+                <span>
+                  Template built by <a href="https://x.com/phumudzooooo" target="_blank" rel="noopener noreferrer" className="underline hover:text-primary transition-colors">Phumudzo</a> (@phumudzooooo)
+                </span>
+              </footer>
             </ConvexClientProvider>
           </ThemeProvider>
         </AuthProvider>
