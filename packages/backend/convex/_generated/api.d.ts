@@ -11,6 +11,7 @@
 import type * as betterAuth from "../betterAuth.js";
 import type * as doc from "../doc.js";
 import type * as notifications from "../notifications.js";
+import type * as subscriptions from "../subscriptions.js";
 import type * as todos from "../todos.js";
 import type * as user from "../user.js";
 
@@ -32,6 +33,7 @@ declare const fullApi: ApiFromModules<{
   betterAuth: typeof betterAuth;
   doc: typeof doc;
   notifications: typeof notifications;
+  subscriptions: typeof subscriptions;
   todos: typeof todos;
   user: typeof user;
 }>;

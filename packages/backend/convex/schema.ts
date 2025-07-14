@@ -31,6 +31,11 @@ const todos = defineTable({
     .index("by_user", ["userId", "createdAt"])
     .index("by_org", ["organizationId", "createdAt"]);
 
+const subscriptions = defineTable({
+    organizationId: v.id("organization"),
+    data: v.any(), // Holds the subscription data object
+}).index("by_organization", ["organizationId"]);
+
 export default defineSchema({
     user,
     member,
@@ -40,4 +45,5 @@ export default defineSchema({
     notificationPreferences,
     notificationTemplates,
     todos,
+    subscriptions,
 });
